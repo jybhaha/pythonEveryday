@@ -4,7 +4,7 @@
 一些小的python程序。
 
 
-最初的想法源自这里。
+最初的想法源自这里 https://github.com/jybhaha/show-me-the-code。
 
 
 The original idea is from https://github.com/jybhaha/show-me-the-code
